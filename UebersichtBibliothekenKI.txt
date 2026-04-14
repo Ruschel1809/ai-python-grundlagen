@@ -1,0 +1,51 @@
+Maschinelles Lernen (Machine Learning) 
+| Bibliothek          | Beschreibung                                        | Sprache       | Anwendungsbeispiele                     
+|---------------------|-----------------------------------------------------|---------------|-----------------------------------------|
+| scikit-learn        | ML-Algorithmen wie Klassifikation, Clustering usw.  | Python        | Vorhersagen, Klassifikation, Prototypen |
+| XGBoost / LightGBM  | Gradient-Boosting-Frameworks                        | Python, R     | Tabellendaten, Wettbewerbe (Kaggle)     |
+| mlxtend             | Erweiterung von scikit-learn                        | Python        | Ensemble-Methoden, Visualisierung       |
+
+
+Deep Learning 
+| Bibliothek   | Beschreibung                                | Sprache     | Besonderheiten                           |
+|--------------|---------------------------------------------|-------------|------------------------------------------|
+| TensorFlow   | Framework von Google für Deep Learning      | Python, C++ | Skalierbar, mobil, produktionsreif       |
+| Keras        | Einfaches API-Frontend für TensorFlow       | Python      | Intuitiv, gut für Einsteiger             |
+| PyTorch      | Dynamisches Deep Learning Framework         | Python      | Forschung, Hugging Face Unterstützung    |
+| JAX          | Hochperformante numerische Berechnungen     | Python      | Besonders für Forschung und GPUs geeignet|
+
+
+Natürliche Sprachverarbeitung (NLP) 
+| Bibliothek     | Beschreibung                               | Sprache | Beispiele                                 |
+|----------------|--------------------------------------------|---------|-------------------------------------------|
+| spaCy          | Effiziente Verarbeitung natürlicher Sprache| Python  | Tokenisierung, Lemmatisierung, NER        |
+| NLTK           | Klassische NLP-Tools für Analyse und Lehre | Python  | Textanalyse, Linguistik                   |
+| transformers   | Modelle wie GPT, BERT, T5 usw.             | Python  | Textgenerierung, Klassifikation, Chatbots |
+| Stanza         | NLP-Toolkit von der Stanford University    | Python  | Mehrsprachige Textanalyse                 |
+
+
+Computer Vision 
+| Bibliothek   | Beschreibung                              | Sprache      | Beispiele                                |
+|--------------|-------------------------------------------|--------------|------------------------------------------|
+| OpenCV       | Bildverarbeitung und Objekterkennung      | Python, C++  | Gesichtserkennung, Kameraanbindung       |
+| Pillow       | Einfache Bildbearbeitung                  | Python       | Zuschneiden, Konvertieren                |
+| Detectron2   | Objekt- und Segmenterkennung von Meta     | Python       | Instanzsegmentierung                     |
+| YOLOv5/v8    | Echtzeit-Objekterkennung                  | Python       | Objekterkennung in Videos und Bildern    |
+
+
+Datenverarbeitung und Visualisierung 
+| Bibliothek               | Beschreibung                                   | Beispiele                                |
+|--------------------------|------------------------------------------------|------------------------------------------|
+| pandas                   | Datenrahmen, Tabellen, CSV, Excel              | Datenanalyse, Transformation             |
+| NumPy                    | Arrays, Matrizen, numerische Operationen       | Vektorrechnung, mathematische Grundlagen |
+| Matplotlib / Seaborn     | Plot- und Visualisierungsbibliotheken          | Balkendiagramme, Linienplots, Heatmaps   |
+| Plotly                   | Interaktive Visualisierungen                   | Dashboards, Web-Plots                    |
+
+
+Entwicklung und Infrastruktur 
+| Tool                   | Beschreibung                                    | Beispiele                                |
+|------------------------|-------------------------------------------------|------------------------------------------|
+| Jupyter Notebook       | Interaktive Python-Umgebung                     | Prototyping, Notizen, Visualisierung     |
+| Streamlit / Gradio     | Einfaches UI für ML-Modelle                     | Demo-Webanwendungen                      |
+| ONNX                   | Austauschformat für KI-Modelle                  | Modellkompatibilität zwischen Frameworks |
+| MLflow / Weights&Biases| Experiment-Tracking und Modellüberwachung       | Training vergleichen, Logs speichern     |

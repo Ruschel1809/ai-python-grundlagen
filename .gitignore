@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.eggs/
+dist/
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtuelle Umgebungen
+venv/
+.venv/
+env/
+.env
+
+# Android / Kotlin
+build/
+*.iml
+local.properties
+*.apk
+*.aab
+
+# Gradle
+.gradle/
+gradle-wrapper.jar
+
+# Kotlin
+.kotlin/
+
+# IDE
+.idea/
+*.suo
+*.user
+.vs/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Sicherheit
+.env
+.env.example
+secrets.py
+config.py
